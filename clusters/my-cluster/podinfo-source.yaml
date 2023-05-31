@@ -9,5 +9,5 @@ spec:
   # ref:
   #   branch: master
   ref:
-    tag: "6.3.5"
+    tag: "6.3.6"
   url: https://github.com/stefanprodan/podinfo
