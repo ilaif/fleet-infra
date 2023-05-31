@@ -5,9 +5,9 @@ metadata:
   name: podinfo
   namespace: flux-system
 spec:
-  interval: 30s
-  ref:
-    branch: master
+  interval: 10s
   # ref:
-  #   tag: "6.3.5"
+  #   branch: master
+  ref:
+    tag: "6.3.5"
   url: https://github.com/stefanprodan/podinfo
