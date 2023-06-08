@@ -15,7 +15,7 @@ spec:
     metadata:
       labels:
         app: welcome-php
-        test: test
+        test: test1
     spec:
       containers:
       - image: quay.io/redhatworkshops/welcome-php
